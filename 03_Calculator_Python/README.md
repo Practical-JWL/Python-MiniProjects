@@ -16,7 +16,6 @@ OOP 상속 구조: 숫자만추출 클래스를 상속받아 연산에 필요한
 - 데이터 정제: isinstance와 type 체크를 통해 입력값 중 유효한 int, float 데이터만 추출하여 self.숫자 리스트에 저장함.
 
 - 예외 처리: 나누기 연산 시 0으로 나누는 상황에 대한 방어 로직을 포함하고 있음.
-<img width="3999" height="3999" alt="image" src="https://github.com/user-attachments/assets/8fabaa36-acff-4bcb-bed4-6de577651c05" />
 🔹 프론트엔드: 사용자 경험(UX) 최적화
 - Step-by-Step UI: 사용자 편의를 위해 입력 과정을 3단계(숫자1 → 연산자 → 숫자2)로 시각화하여 가독성을 높임.
 
