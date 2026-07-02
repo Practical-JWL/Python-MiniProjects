@@ -96,7 +96,7 @@ Step 4: 특수 기능 (Pause & Confirmation)
 ---
 ### 4. 핵심 함수별 역할 ###
 함수명,역할 설명
-<img width="783" height="358" alt="image" src="https://github.com/user-attachments/assets/52aaefd6-141e-4d0f-8afe-37d81dbea9f0" />
+
 
 ---
 ### 5. UI/UX 디자인 포인트 ###
@@ -105,6 +105,6 @@ Step 4: 특수 기능 (Pause & Confirmation)
 시각적 핀 배치: monospace 폰트와 이모지를 활용하여 삼각형 형태의 볼링 핀 배치 구현.
 
 비동기 처리: 봇의 투구 시 threading을 활용하여 UI가 멈추지 않고 자연스럽게 다음 순서로 넘어가도록 설계.
-<img width="994" height="922" alt="image" src="https://github.com/user-attachments/assets/940d7d01-6929-4189-a8a8-9efa2b954daf" />
+
 
 
